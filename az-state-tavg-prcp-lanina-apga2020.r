@@ -44,17 +44,6 @@ yr_la_nina <- c(
   1995, 2005, 2008, 2011, 1954, 1971, 2000, 1964, 1983, 1974
   )
 
-# Set La Nina years, based on list at:
-# https://www.climate.gov/news-features/featured-images/temperature-patterns-during-every-la-ni%C3%B1a-winter-1950
-yr_la_nina <- c(
-  # strong
-  1973, 1988, 1999, 1975, 2007, 1949, 1998,
-  # moderate
-  1970, 2010, 1955, 1984,
-  #weak
-  1995, 2005, 2008, 2011, 1954, 1971, 2000, 1964, 1983, 1974
-)
-
 # Set El Nino years, based on list at:
 # https://www.climate.gov/news-features/featured-images/us-winter-precipitation-during-every-el-ni%C3%B1o-1950
 yr_el_nino <- c(
